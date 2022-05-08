@@ -1,6 +1,16 @@
 # FAQ
 
-**Version:** 1.18.2
+## Allowed Stuff
+
+* Fullbright &#x20;
+* Optifine&#x20;
+* Lunar of Badlion
+
+## Disallowed stuff
+
+* Impersonating staff members or players
+
+### This list can be updated!
 
 ## Features
 

@@ -1,10 +1,10 @@
----
-description: >-
-  Welcome to the official UnEngine Server wiki, here you can find tutorials and
-  information about the server
----
+# UnEngine Documentation
 
-# UnEngine Home
+UnEngine is a unique Minecraft server, encouraging players to build, play and have fun among others in a unique world, we have custom vehicles, skills and self updating economy!
+
+Welcome to the official UnEngine Server wiki, here you can find tutorials and information about the server
+
+
 
 ![Advanced Survival](.gitbook/assets/Untitled.png)
 
@@ -18,6 +18,12 @@ description: >-
 
 {% content-ref url="commands/vehicles.md" %}
 [vehicles.md](commands/vehicles.md)
+{% endcontent-ref %}
+
+## Parties
+
+{% content-ref url="commands/parties.md" %}
+[parties.md](commands/parties.md)
 {% endcontent-ref %}
 
 ## FAQ

@@ -1,15 +1,16 @@
 # Table of contents
 
-* [UnEngine Home](README.md)
+* [UnEngine Documentation](README.md)
 
 ## Commands
 
+* [Parties](commands/parties.md)
 * [Vehicles](commands/vehicles.md)
 * [Commands](commands/commands.md)
 
 ***
 
-* [Specs](specs.md)
+* [Game Rules](game-rules.md)
 * [FAQ](faq.md)
 
 ## LEGAL
